@@ -1,0 +1,8 @@
+streamlit
+langchain
+groq
+numpy
+scikit-learn
+pandas
+SQLAlchemy
+python-dotenv 

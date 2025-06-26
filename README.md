@@ -1,4 +1,3 @@
-# Real-Time-Anomaly-Detection-in-Banking-Transactions-with-Explainable-AI
 # Real-Time Anomaly Detection in Banking Transactions with Explainable AI
 
 ## 🚀 Project Overview
@@ -79,3 +78,10 @@ A user typically spends $20–$50/day in California. Suddenly, a $1,000 transact
 - **LLM Integration:** LangChain + Groq API
 - **Frontend:** Streamlit
 - **Storage:** (Optional) SQLite/PostgreSQL for feedback loop
+
+## 🙏 Credits
+- Built by [Your Name].
+- Powered by [LangChain](https://www.langchain.com/) and [Groq](https://groq.com/).
+
+---
+Feel free to fork, contribute, and adapt for your own banking or real-time anomaly detection use cases!
